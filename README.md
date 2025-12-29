@@ -13,7 +13,6 @@ This section explains how to set up the backend API for the Exam Web App using L
 
 ## Step 1 — Clone the Backend Repository
 
-```bash
 git clone <your-backend-github-repo-url>
 cd exam-be
 
